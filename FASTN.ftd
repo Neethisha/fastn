@@ -17,3 +17,13 @@ favicon: /-/neethisha.github.io/fastn/favicon.ico
 # Home: index.html
 
 - Right Sidebar Sample: /sidebar/
+-- import: fastn
+
+-- fastn.package: hello
+
+-- fastn.dependency: fastn-community.github.io/bling
+
+;; doc-site components which gives it documentation site like look.
+
+;; UNCOMMENT NEXT LINE
+-- fastn.dependency: fastn-community.github.io/doc-site
